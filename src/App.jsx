@@ -9,24 +9,18 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+        <a href="https://cybolt.com/" target="_blank">
+          <img src="https://cybolt.com/wp-content/uploads/2021/04/cropped-cybolt-web.png" className="logo" alt="Cybolt" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Tu información a sido robada, gracias por tu contribución</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+        Revisa bien el lugar donde esta el QR <b>¿notaste algo diferente?</b>
         </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+      <p>
+      Recuerda que no debes ingresar a direcciones desconocidas te pueden robar la información con una página sencilla como esta.
       </p>
     </>
   )
